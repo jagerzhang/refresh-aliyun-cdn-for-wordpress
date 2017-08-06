@@ -1,7 +1,7 @@
 <?php
 /**
 * WordPress发布/更新文章、提交/审核评论自动清理阿里云CDN缓存 By 张戈博客
-* 文章地址：https://zhangge.net/5112.html
+* 文章地址：https://zhangge.net/5124.html
 * 转载请保留原文出处，谢谢合作！
 */
 
